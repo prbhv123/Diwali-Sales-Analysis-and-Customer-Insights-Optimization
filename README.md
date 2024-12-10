@@ -10,7 +10,7 @@ This project focuses on analyzing Diwali sales data to uncover valuable insights
 ## Tools and Technologies  
 - **Languages**: Python  
 - **Libraries**: Pandas, Matplotlib, Seaborn, NumPy
-- **Dataset**: [Diwali Sales Dataset](#) (<https://github.com/prbhv123/Diwali-Sales-Analysis-and-Customer-Insights-Optimization/blob/main/Diwali%20Sales%20Data.csv>)
+- **Dataset**: <https://github.com/prbhv123/Diwali-Sales-Analysis-and-Customer-Insights-Optimization/blob/main/Diwali%20Sales%20Data.csv>
 
 
 ## How to Run  
